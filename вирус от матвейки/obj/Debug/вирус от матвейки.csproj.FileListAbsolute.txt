@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\bin\Debug\вирус от матвейки.exe.config
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\bin\Debug\вирус от матвейки.exe
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\bin\Debug\вирус от матвейки.pdb
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\obj\Debug\вирус от матвейки.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\obj\Debug\вирус_от_матвейки.Form1.resources
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\obj\Debug\вирус_от_матвейки.Properties.Resources.resources
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\obj\Debug\вирус от матвейки.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\obj\Debug\вирус от матвейки.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\obj\Debug\вирус от матвейки.exe
+C:\Users\Nikita\source\repos\вирус от матвейки\вирус от матвейки\obj\Debug\вирус от матвейки.pdb
